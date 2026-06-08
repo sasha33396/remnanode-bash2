@@ -1,0 +1,1 @@
+# remnanode-bash2
