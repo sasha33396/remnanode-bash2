@@ -250,7 +250,7 @@ services:
   remnanode:
     container_name: remnanode
     hostname: remnanode
-    image: remnawave/node:2.6.1
+    image: remnawave/node:latest
     network_mode: host
     restart: always
     ulimits:
